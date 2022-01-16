@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravinds-dev
+- 👋 Hi, I’m Aravind
 - 📫 How to reach me - sr.aravind99@gmail.com
 
 <!---
